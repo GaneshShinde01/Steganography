@@ -2,7 +2,7 @@
 
 This project demonstrates how to hide and retrieve secret messages in images using **Least Significant Bit (LSB) steganography** combined with **XOR encryption**.
 
-![Demo](images/stego_output.jpg)
+![Demo](stego_output.jpg)
 
 ---
 
